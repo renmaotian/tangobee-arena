@@ -8,12 +8,15 @@
 
 *Run the same revolutionary evaluation system used by [TangoBee Arena](https://tangobee.sillymode.com) locally with your own OpenRouter API key!*
 
+**🌐 Live Arena:** [tangobee.sillymode.com](https://tangobee.sillymode.com)  
+**📊 Local Version:** Run evaluations on your machine with any models!
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![OpenRouter](https://img.shields.io/badge/OpenRouter-API-green.svg)](https://openrouter.ai/)
 [![TangoBee](https://img.shields.io/badge/TangoBee-Arena-gold.svg)](https://tangobee.sillymode.com)
-[![GitHub Stars](https://img.shields.io/github/stars/renmaotian/tangobee-local-arena?style=social)](https://github.com/renmaotian/tangobee-local-arena)
-[![GitHub Forks](https://img.shields.io/github/forks/renmaotian/tangobee-local-arena?style=social)](https://github.com/renmaotian/tangobee-local-arena)
+[![GitHub Stars](https://img.shields.io/github/stars/renmaotian/tangobee-arena?style=social)](https://github.com/renmaotian/tangobee-arena)
+[![GitHub Forks](https://img.shields.io/github/forks/renmaotian/tangobee-arena?style=social)](https://github.com/renmaotian/tangobee-arena)
 
 *Where AI models dance together in evaluation harmony* 🕺💃
 
@@ -21,7 +24,15 @@
 
 </div>
 
-## 🌟 What is TangoBee Local Arena?
+## 🌟 What is TangoBee Arena?
+
+<div align="center">
+
+### 🌐 **Official TangoBee Arena Local Version**
+
+**Live Arena:** [tangobee.sillymode.com](https://tangobee.sillymode.com) | **Local Version:** This Repository
+
+</div>
 
 **Finally, a fair way to evaluate AI models!** 🎯
 
@@ -75,6 +86,8 @@ This eliminates single-point bias and creates a truly peer-to-peer evaluation ec
 
 *🔥 **Run the exact same evaluation system that generated these results!** 🔥*
 
+**See these results live at:** [tangobee.sillymode.com](https://tangobee.sillymode.com)
+
 </div>
 
 **🎯 Complete Performance Analysis:**
@@ -116,8 +129,8 @@ This eliminates single-point bias and creates a truly peer-to-peer evaluation ec
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/renmaotian/tangobee-local-arena.git
-   cd tangobee-local-arena
+   git clone https://github.com/renmaotian/tangobee-arena.git
+   cd tangobee-arena
    ```
 
 2. **Run the setup:**
@@ -157,7 +170,7 @@ This eliminates single-point bias and creates a truly peer-to-peer evaluation ec
 Want to dive in immediately? Use this one-liner:
 
 ```bash
-git clone https://github.com/renmaotian/tangobee-local-arena.git && cd tangobee-local-arena && python setup.py && export OPENROUTER_API_KEY=your_key_here && python run_evaluation.py --quick
+git clone https://github.com/renmaotian/tangobee-arena.git && cd tangobee-arena && python setup.py && export OPENROUTER_API_KEY=your_key_here && python run_evaluation.py --quick
 ```
 
 Replace `your_key_here` with your OpenRouter API key and you're ready to dance! 🕺
@@ -373,14 +386,14 @@ python src/local_arena.py --api-key your_key --models openai/gpt-4o-mini
 - ✅ Detailed statistical breakdowns
 
 ### 🌟 **Proven Methodology**
-- ✅ Based on live [TangoBee Arena](https://tangobee.sillymode.com)
-- ✅ Trusted evaluation approach
-- ✅ Continuously refined system
-- ✅ Community-driven improvements
+- ✅ **Official local version** of [tangobee.sillymode.com](https://tangobee.sillymode.com)
+- ✅ **Battle-tested** with weekly live evaluations
+- ✅ **Continuously refined** system based on real usage
+- ✅ **Community-validated** evaluation approach
 
 ## 🤝 Contributing
 
-We welcome contributions! This project is inspired by the live TangoBee Arena at [tangobee.sillymode.com](https://tangobee.sillymode.com).
+We welcome contributions! This is the official local version of [TangoBee Arena](https://tangobee.sillymode.com).
 
 ### Development Setup
 
@@ -413,9 +426,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Support
 
-- 🐛 **Issues:** [GitHub Issues](https://github.com/renmaotian/tangobee-local-arena/issues)
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/renmaotian/tangobee-local-arena/discussions)
-- 🌐 **Live Demo:** [TangoBee Arena](https://tangobee.sillymode.com)
+- 🐛 **Issues:** [GitHub Issues](https://github.com/renmaotian/tangobee-arena/issues)
+- 💬 **Discussions:** [GitHub Discussions](https://github.com/renmaotian/tangobee-arena/discussions)
+- 🌐 **Live Arena:** [tangobee.sillymode.com](https://tangobee.sillymode.com)
 
 ---
 
