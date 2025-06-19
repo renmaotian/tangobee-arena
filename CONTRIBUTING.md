@@ -26,7 +26,7 @@ We use GitHub to host code, to track issues and feature requests, as well as acc
 
 ```bash
 # Clone your fork
-git clone https://github.com/tianrenmaogithub/tangobee-local-arena.git
+git clone https://github.com/renmaotian/tangobee-local-arena.git
 cd tangobee-local-arena
 
 # Create virtual environment

@@ -12,8 +12,8 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![OpenRouter](https://img.shields.io/badge/OpenRouter-API-green.svg)](https://openrouter.ai/)
 [![TangoBee](https://img.shields.io/badge/TangoBee-Arena-gold.svg)](https://tangobee.sillymode.com)
-[![GitHub Stars](https://img.shields.io/github/stars/tianrenmaogithub/tangobee-local-arena?style=social)](https://github.com/tianrenmaogithub/tangobee-local-arena)
-[![GitHub Forks](https://img.shields.io/github/forks/tianrenmaogithub/tangobee-local-arena?style=social)](https://github.com/tianrenmaogithub/tangobee-local-arena)
+[![GitHub Stars](https://img.shields.io/github/stars/renmaotian/tangobee-local-arena?style=social)](https://github.com/renmaotian/tangobee-local-arena)
+[![GitHub Forks](https://img.shields.io/github/forks/renmaotian/tangobee-local-arena?style=social)](https://github.com/renmaotian/tangobee-local-arena)
 
 *Where AI models dance together in evaluation harmony* 🕺💃
 
@@ -116,7 +116,7 @@ This eliminates single-point bias and creates a truly peer-to-peer evaluation ec
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/tianrenmaogithub/tangobee-local-arena.git
+   git clone https://github.com/renmaotian/tangobee-local-arena.git
    cd tangobee-local-arena
    ```
 
@@ -157,7 +157,7 @@ This eliminates single-point bias and creates a truly peer-to-peer evaluation ec
 Want to dive in immediately? Use this one-liner:
 
 ```bash
-git clone https://github.com/tianrenmaogithub/tangobee-local-arena.git && cd tangobee-local-arena && python setup.py && export OPENROUTER_API_KEY=your_key_here && python run_evaluation.py --quick
+git clone https://github.com/renmaotian/tangobee-local-arena.git && cd tangobee-local-arena && python setup.py && export OPENROUTER_API_KEY=your_key_here && python run_evaluation.py --quick
 ```
 
 Replace `your_key_here` with your OpenRouter API key and you're ready to dance! 🕺
@@ -413,8 +413,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Support
 
-- 🐛 **Issues:** [GitHub Issues](https://github.com/tianrenmaogithub/tangobee-local-arena/issues)
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/tianrenmaogithub/tangobee-local-arena/discussions)
+- 🐛 **Issues:** [GitHub Issues](https://github.com/renmaotian/tangobee-local-arena/issues)
+- 💬 **Discussions:** [GitHub Discussions](https://github.com/renmaotian/tangobee-local-arena/discussions)
 - 🌐 **Live Demo:** [TangoBee Arena](https://tangobee.sillymode.com)
 
 ---
