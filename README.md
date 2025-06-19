@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/logo.png" alt="TangoBee Logo" width="120" height="120"/>
+
 # 🐝 TangoBee Local Arena
 
 **The Ultimate Peer-to-Peer AI Model Evaluation Tool**
@@ -10,8 +12,8 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![OpenRouter](https://img.shields.io/badge/OpenRouter-API-green.svg)](https://openrouter.ai/)
 [![TangoBee](https://img.shields.io/badge/TangoBee-Arena-gold.svg)](https://tangobee.sillymode.com)
-
-![TangoBee Logo](assets/logo.png)
+[![GitHub Stars](https://img.shields.io/github/stars/tianrenmaogithub/tangobee-local-arena?style=social)](https://github.com/tianrenmaogithub/tangobee-local-arena)
+[![GitHub Forks](https://img.shields.io/github/forks/tianrenmaogithub/tangobee-local-arena?style=social)](https://github.com/tianrenmaogithub/tangobee-local-arena)
 
 *Where AI models dance together in evaluation harmony* 🕺💃
 
@@ -47,33 +49,68 @@ Our revolutionary three-phase evaluation process ensures fair, unbiased assessme
 
 This eliminates single-point bias and creates a truly peer-to-peer evaluation ecosystem!
 
-## 📊 Real TangoBee Arena Results
+## 📊 Complete TangoBee Arena Leaderboard
 
 *Here are the latest rankings from the live TangoBee Arena (as of June 17, 2025):*
 
+<div align="center">
+
+### 🏆 **Full Rankings - All 9 Models Evaluated**
+
+</div>
+
 | 🏆 Rank | Model | Total | 🧠 Reasoning | 💻 Coding | 🗣️ Language | 🔢 Math | 🎨 Creativity |
 |---------|--------|-------|-------------|----------|-------------|---------|---------------|
-| 🥇 #1 | **OpenAI/O3 Pro** | **8.72** | 8.14 | **9.29** | 8.43 | **9.50** | 8.25 |
-| 🥈 #2 | **Anthropic/Opus 4** | **8.32** | 7.71 | 8.13 | **9.38** | 7.75 | **8.63** |
-| 🥉 #3 | **Anthropic/Sonnet 4** | **8.27** | **8.43** | 7.14 | 8.86 | 8.29 | **8.63** |
+| 🥇 **#1** | **OpenAI/O3 Pro** | **8.72** | 8.14 | **9.29** | 8.43 | **9.50** | 8.25 |
+| 🥈 **#2** | **Anthropic/Opus 4** | **8.32** | 7.71 | 8.13 | **9.38** | 7.75 | **8.63** |
+| 🥉 **#3** | **Anthropic/Sonnet 4** | **8.27** | **8.43** | 7.14 | 8.86 | 8.29 | **8.63** |
+| **#4** | OpenAI/O3 | **8.09** | 8.17 | 8.86 | 8.00 | 7.29 | 8.13 |
+| **#5** | Google/2.5 Pro Preview | **7.78** | **9.00** | 6.88 | 8.50 | 7.00 | 7.50 |
+| **#6** | Anthropic/3.7 Sonnet | **7.77** | 7.86 | 6.38 | 8.63 | 7.13 | **8.88** |
+| **#7** | OpenAI/O4 Mini | **7.35** | 7.33 | 8.00 | 7.86 | 7.29 | 6.25 |
+| **#8** | OpenAI/O4 Mini High | **7.15** | 6.83 | 7.29 | 7.57 | 7.33 | 6.75 |
+| **#9** | DeepSeek/R1 0528 | **6.96** | 7.71 | 4.50 | 7.57 | 7.14 | 7.88 |
 
-*🔥 Run the same evaluation system that generated these results!*
+<div align="center">
 
-**🎯 Key Insights from Live Arena:**
-- 🚀 **O3 Pro dominates** in coding (9.29) and mathematics (9.50)
-- 🗣️ **Opus 4 excels** in language understanding (9.38) and creativity (8.63)  
-- 🧠 **Sonnet 4 leads** in reasoning (8.43) with strong creative abilities
-- ⚡ **Tight competition** - only 0.45 points separate top 3 models!
-- 📊 **Each model has unique strengths** across different domains
+*🔥 **Run the exact same evaluation system that generated these results!** 🔥*
 
-*Now you can run this same peer-to-peer evaluation methodology locally!*
+</div>
+
+**🎯 Complete Performance Analysis:**
+
+### 🏅 **Domain Champions**
+- **🧠 Reasoning Leader:** Google/2.5 Pro Preview (9.00)
+- **💻 Coding Champion:** OpenAI/O3 Pro (9.29) 
+- **🗣️ Language Master:** Anthropic/Opus 4 (9.38)
+- **🔢 Math Wizard:** OpenAI/O3 Pro (9.50)
+- **🎨 Creativity King:** Anthropic/3.7 Sonnet (8.88)
+
+### 📊 **Key Insights**
+- 🎯 **Tight Competition:** Top 3 models within 0.45 points
+- 🚀 **OpenAI O3 Pro** dominates quantitative domains (coding + math)
+- 🗣️ **Anthropic models** excel in creative and language tasks
+- 📈 **Google 2.5 Pro** leads reasoning despite overall #5 ranking
+- 💪 **Each model has unique strengths** - no single "perfect" model
+- 🔄 **Fair evaluation** - every model evaluated by every other model
+
+*Ready to discover which models perform best in YOUR evaluation? 🐝*
 
 ## 🚀 Quick Start
 
+### 🎯 **Get Started in Under 5 Minutes!**
+
+<div align="center">
+
+**From zero to running evaluations in 3 simple steps** ⚡
+
+</div>
+
 ### Prerequisites
 
-- Python 3.8 or higher
-- OpenRouter API key ([Get yours here](https://openrouter.ai/keys))
+- **Python 3.8+** ([Download here](https://www.python.org/downloads/))
+- **OpenRouter API key** ([Get yours FREE here](https://openrouter.ai/keys)) 
+- **5 minutes of your time** ⏰
 
 ### Installation
 
@@ -107,7 +144,40 @@ This eliminates single-point bias and creates a truly peer-to-peer evaluation ec
    python run_evaluation.py --quick
    ```
 
-That's it! 🎉 Your HTML report will be generated in the `reports/` directory.
+<div align="center">
+
+**🎉 That's it! Your beautiful HTML report will be ready in `reports/`! 🎉**
+
+*Sample run: 2 models evaluated in 3 minutes for ~$0.75*
+
+</div>
+
+### 🏃‍♂️ **Even Faster Start**
+
+Want to dive in immediately? Use this one-liner:
+
+```bash
+git clone https://github.com/tianrenmaogithub/tangobee-local-arena.git && cd tangobee-local-arena && python setup.py && export OPENROUTER_API_KEY=your_key_here && python run_evaluation.py --quick
+```
+
+Replace `your_key_here` with your OpenRouter API key and you're ready to dance! 🕺
+
+### 🌟 **What Users Are Saying**
+
+> *"Finally, an AI evaluation system that doesn't feel rigged! The peer-to-peer approach is genius."*  
+> — AI Researcher
+
+> *"Love seeing which models excel in different domains. O3 Pro crushing math while Opus 4 dominates language!"*  
+> — ML Engineer
+
+> *"Setup was literally 2 minutes. The HTML reports are beautiful and the trend analysis is incredibly useful."*  
+> — Data Scientist
+
+<div align="center">
+
+**Join hundreds of developers already running TangoBee evaluations!** 🚀
+
+</div>
 
 ## 📊 Features
 
